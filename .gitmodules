@@ -1,0 +1,3 @@
+[submodule "SoulSci-Backend"]
+	path = SoulSci-Backend
+	url = https://github.com/yuichi-9621/SoulSci-Backend.git
