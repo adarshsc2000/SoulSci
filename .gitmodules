@@ -1,3 +1,6 @@
 [submodule "SoulSci-Backend"]
 	path = SoulSci-Backend
 	url = https://github.com/yuichi-9621/SoulSci-Backend.git
+[submodule "SouliSci-Frontend"]
+	path = SouliSci-Frontend
+	url = https://github.com/MrRaccxxn/desci-dao.git
