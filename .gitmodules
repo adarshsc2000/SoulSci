@@ -4,3 +4,6 @@
 [submodule "SoulSci-Frontend"]
 	path = SoulSci-Frontend
 	url = https://github.com/MrRaccxxn/desci-dao.git
+[submodule "SoulSci-Lighthouse"]
+	path = SoulSci-Lighthouse
+	url = https://github.com/MrRaccxxn/lighthouse-implementation.git
