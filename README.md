@@ -47,7 +47,7 @@ short app description
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/MrRaccxxn/desci-dao
+$ git clone https://github.com/adarshsc2000/SoulSci
 ```
 
 **Step #2**
